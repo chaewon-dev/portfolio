@@ -21,6 +21,7 @@
 ## Project
 
 ### 1. <a href="https://github.com/chaewon-dev/modustore" target="_blank">모두스토어</a>
+[새창](https://github.com/chaewon-dev/modustore){: target="_blank"}
 
 > 중고거래 사이트
 > 
