@@ -24,7 +24,7 @@
 
 > 중고거래 사이트
 > 
-> 기술 스택:
+> 기술 스택:<br>
 > Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
 >
 > [프로젝트 상세 설명](https://github.com/chaewon-dev/modustore)
