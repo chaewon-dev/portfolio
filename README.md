@@ -24,13 +24,13 @@
 
 ### 1.[모두스토어](https://github.com/chaewon-dev/modustore)
 
-중고거래 사이트
+> 중고거래 사이트
 
-기술 스택:
+> 기술 스택:
 
-Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
+> Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
 
-[프로젝트 상세 설명](https://github.com/chaewon-dev/modustore)
+> [프로젝트 상세 설명](https://github.com/chaewon-dev/modustore)
 
 
 
