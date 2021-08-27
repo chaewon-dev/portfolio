@@ -15,13 +15,13 @@
 ## 연락처
 
 - email: chaewonim.dev@gmail.com
-- blog: https://chaewondev.tistory.com/
+- blog: <https://chaewondev.tistory.com/> {: target="_blank"}
 - GitHub: https://github.com/chaewon-dev
 
 ## Project
 
 ### 1. <a href="https://github.com/chaewon-dev/modustore" target="_blank">모두스토어</a>
-[새창](https://github.com/chaewon-dev/modustore){: target="_blank"}
+[새창](https://github.com/chaewon-dev/modustore) {: target="_blank"}
 
 > 중고거래 사이트
 > 
