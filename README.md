@@ -15,7 +15,8 @@
 ## 연락처
 
 - email: chaewonim.dev@gmail.com
-- blog: [https://chaewondev.tistory.com/][https://chaewondev.tistory.com/]
+- blog: <https://chaewondev.tistory.com/>
+- [ㅁㄴㅇㄹ]:https://chaewondev.tistory.com/
 - GitHub: [https://github.com/chaewon-dev]:https://github.com/chaewon-dev
 
 ## Project
