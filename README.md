@@ -20,14 +20,14 @@
 
 ## Project
 
-### 1.<a href="https://github.com/chaewon-dev/modustore">모두스토어</a>
+### 1. <a href="https://github.com/chaewon-dev/modustore" target="_blank">모두스토어</a>
 
 > 중고거래 사이트
 > 
 > 기술 스택:<br>
 > Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
 >
-> [프로젝트 상세 설명](https://github.com/chaewon-dev/modustore)
+> <a href="https://github.com/chaewon-dev/modustore" target="_blank">프로젝트 상세 설명</a>
 
 
 
