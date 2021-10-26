@@ -15,19 +15,20 @@
 ## 연락처
 
 - email: chaewonim.dev@gmail.com
-- blog: <https://chaewondev.tistory.com/>
 - GitHub: <https://github.com/chaewon-dev>
 
 ## Project
 
-### 1. <a href="https://github.com/chaewon-dev/modustore" target="_blank">모두스토어</a>
+### 1. <a href="https://github.com/chaewon-dev/QPMS" target="_blank">QPMS</a>
 
-> 중고거래 사이트
+> 웹기반 프로젝트 관리 시스템(Project Management System, PMS)
 > 
 > 기술 스택:<br>
-> Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
+> Java 11 / Spring Boot 2.5.5 / Spring Security / Thymeleaf / MariaDB / Gradle
 >
-> <a href="https://github.com/chaewon-dev/modustore" target="_blank">프로젝트 상세 설명</a>
+> URL: www.qpms.co.kr  (실무자권한 테스트계정: hi10/hihi)
+>
+> <a href="https://github.com/chaewon-dev/QPMS" target="_blank">프로젝트 상세 설명</a>
 
 
 
