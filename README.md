@@ -6,7 +6,7 @@
 
 ## :pushpin: Intro
 
-<img src="chaewon-piano.jpg" width="500" height="300">
+<img src="src/chaewon-piano.jpg" width="500" height="300">
 
 이름: 임채원
 
