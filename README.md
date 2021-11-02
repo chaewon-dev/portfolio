@@ -44,11 +44,13 @@
 
 ### 1. 제2회 스펙트럼 챌린지 (우수상)
 
+>날짜: 2020.11.11<br>
 >주어진 전파 환경에서 이용중인 전파 및 변조특성 식별<br>
 >https://chaewondev.tistory.com/43?category=876585
 
-### 2. 졸업작품 (장려상
+### 2. 졸업작품 (장려상)
 
+>날짜: 2018.11.16<br>
 >Obstacle Avoidance Drone & Follow Cam 제작<br>
 >https://chaewondev.tistory.com/26?category=876585
 
