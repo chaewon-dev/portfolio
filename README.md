@@ -19,9 +19,9 @@
 
 <br>
 
-## :pushpin: Projects
+## :pushpin: Project
 
-### 1. <a href="https://github.com/chaewon-dev/QPMS" target="_blank">QPMS</a>
+### <a href="https://github.com/chaewon-dev/QPMS" target="_blank">QPMS</a>
 
 > 웹기반 프로젝트 관리 시스템(Project Management System, PMS)
 > 
