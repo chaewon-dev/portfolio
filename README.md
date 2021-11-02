@@ -18,7 +18,8 @@
 
 ## :pushpin: Contact
 
-- email: chaewonim.dev@gmail.com
+- e-mail: chaewonim.dev@gmail.com
+- Blog: https://chaewondev.tistory.com/
 - GitHub: <https://github.com/chaewon-dev>
 
 <br>
@@ -41,9 +42,15 @@
 
 ## :pushpin: 수상경력
 
-### 1. 제2회 스펙트럼 챌린지
+### 1. 제2회 스펙트럼 챌린지 (우수상)
 
-### 2. 졸업작품
+>주어진 전파 환경에서 이용중인 전파 및 변조특성 식별<br>
+>https://chaewondev.tistory.com/43?category=876585
+
+### 2. 졸업작품 (장려상
+
+>Obstacle Avoidance Drone & Follow Cam 제작<br>
+>https://chaewondev.tistory.com/26?category=876585
 
 
 
