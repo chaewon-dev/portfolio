@@ -2,22 +2,24 @@
 
 적응하기 위해 기록하는 개발자 임채원입니다.
 
-## 소개
+<br>
+
+## :pushpin: Intro
 
 이름: 임채원
 
 취미: 피아노, 자전거
 
-캐치프레이즈
+<br>
 
-
-
-## 연락처
+## :pushpin: Contact
 
 - email: chaewonim.dev@gmail.com
 - GitHub: <https://github.com/chaewon-dev>
 
-## Project
+<br>
+
+## :pushpin: Projects
 
 ### 1. <a href="https://github.com/chaewon-dev/QPMS" target="_blank">QPMS</a>
 
@@ -30,9 +32,13 @@
 >
 > <a href="https://github.com/chaewon-dev/QPMS" target="_blank">프로젝트 상세 설명</a>
 
+<br>
 
+## :pushpin: 수상경력
 
+### 1. 제2회 스펙트럼 챌린지
 
+### 2. 졸업작품
 
 
 
