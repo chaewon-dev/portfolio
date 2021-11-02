@@ -33,7 +33,7 @@
 > Demo Link: www.qpms.co.kr  (실무자권한 테스트 계정: hi10 / hihi)
 > 
 > 기술 스택:<br>
-> Java 11 / Spring Boot 2.5.5 / Spring Security / Thymeleaf / MariaDB / Gradle
+> Java 11 / Spring Boot 2.5 / Spring Security / Thymeleaf / MariaDB / Gradle
 >
 > <a href="https://github.com/chaewon-dev/QPMS" target="_blank">프로젝트 상세 설명</a>
 
